@@ -1,0 +1,11 @@
+C:\Users\Klein\Desktop\MissU\MissU\bin\Debug\MissU.exe.config
+C:\Users\Klein\Desktop\MissU\MissU\bin\Debug\MissU.exe
+C:\Users\Klein\Desktop\MissU\MissU\bin\Debug\MissU.pdb
+C:\Users\Klein\Desktop\MissU\MissU\obj\Debug\MissU.csproj.AssemblyReference.cache
+C:\Users\Klein\Desktop\MissU\MissU\obj\Debug\MissU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klein\Desktop\MissU\MissU\obj\Debug\MissU.Form1.resources
+C:\Users\Klein\Desktop\MissU\MissU\obj\Debug\MissU.Properties.Resources.resources
+C:\Users\Klein\Desktop\MissU\MissU\obj\Debug\MissU.csproj.GenerateResource.cache
+C:\Users\Klein\Desktop\MissU\MissU\obj\Debug\MissU.csproj.CoreCompileInputs.cache
+C:\Users\Klein\Desktop\MissU\MissU\obj\Debug\MissU.exe
+C:\Users\Klein\Desktop\MissU\MissU\obj\Debug\MissU.pdb
